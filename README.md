@@ -9,8 +9,8 @@ This project is for html &amp; css practice. We made this for youtube tutorial p
 
 ## Similar Projects/turorials
 
- - [Amy's Portfolio - (html, css project)](https://github.com/ShaifArfan/AMYs-Portfolio)
- - [Ayans's Profolio - (react.js project)](https://github.com/ShaifArfan/AYANs-portfolio)
+ - [Amy's Portfolio - (html, css project)](https://github.com/ShaifArfan/AMYs-Portfolio).
+ - [Ayans's Profolio - (react.js project)](https://github.com/ShaifArfan/AYANs-portfolio).
   
 
 ### 👍 HAVE FUN 👍
